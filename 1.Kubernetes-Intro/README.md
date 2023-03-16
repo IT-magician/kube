@@ -32,3 +32,5 @@
     echo $my_nginx_pod
     kubectl describe pod $my_nginx_pod
     ```
+    
+ssafy0307
