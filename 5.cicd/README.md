@@ -302,3 +302,6 @@
 - 8.2 "History"에서 "hello-cloudbuild-env" 빌드 정보를 확인
 - 8.3 가장 최근에서 바로 이전의 build 정보를 클릭
 - 8.4 "Rebuild" 클릭
+
+
+ssafy0321
