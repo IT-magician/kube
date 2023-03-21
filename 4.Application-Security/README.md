@@ -63,3 +63,5 @@
   ```bash
   kubectl apply -f ./pod1.yaml
   ```
+  
+  ssafy0316
